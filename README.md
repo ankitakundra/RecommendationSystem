@@ -1,5 +1,6 @@
 
 This project is for creating a recommendation system using both content based and collaborative based filtering. 
+Technologies - Numpy, Pandas, Matplotlib, Seaborn
 
 Movies:
 weighed_hybrid_recommendation.ipynb - recommendation using hybrid technique.
